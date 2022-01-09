@@ -1,10 +1,10 @@
 ### ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @DUMAI-991**
-![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
-* **Visitor Github @DUMAI-200**
-![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=red)
+* **Visitor Github RavXD**
+![DUMAI-991](https://komarev.com/ghpvc/?username=RavXD&color=blue)
+* **Visitor Github @RavXD-200**
+![DUMAI-200](https://komarev.com/ghpvc/?username=Rav-200&color=red)
 >
 #### ★★ TEAM PROJECT ★★
 1. [**WANS X GANS**](https://github.com/wansgang980)
@@ -14,8 +14,8 @@
 
 
 ### ★ Social Accounts And Donation Accounts ★
-* <a href="https://m.facebook.com/llovexnxx"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="20" height="20">**Facebook**</a>
-* <a href="https://wa.me/6283143565470?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).png" alt="alt text" width="20" height="20">**WhatsApp**</a>
+* <a href="https://m.facebook.com/muhammad.hanyauntukmu"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="20" height="20">**Facebook**</a>
+* <a href="https://wa.me/083818101132?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).png" alt="alt text" width="20" height="20">**WhatsApp**</a>
 * <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-46-08-83.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(2).jpeg" alt="alt text" width="20" height="20">**Ovo**</a>
 * <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-33-26-40.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Dana**</a>
 * <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-45-13-76.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).jpeg" alt="alt text" width="20" height="20">**Gopay**</a>
