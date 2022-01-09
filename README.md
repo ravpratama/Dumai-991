@@ -7,8 +7,8 @@
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Rav-200&color=red)
 >
 #### ★★ TEAM PROJECT ★★
-1. [**WANS X GANS**](https://github.com/wansgang980)
-2. [**ZEE K WORLD**](https://github.com/ZKWorld)
+1. [**Rav Pratama**](https://github.com/polarda1)
+2. [**Rav XD**](https://github.com/RavXD)
 3. [**MR.RISKY**](https://github.com/Dumai-991)
 4. [**MR.JECCK**](https://github.com/mrjeeck)
 
